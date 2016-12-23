@@ -1,0 +1,17 @@
+{
+    "name": "crackerjackdigital/silverstripe-spout-graphql",
+    "description": "GraphSQL API module for spout",
+    "type": "silverstripe-module",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Steve Wake",
+            "email": "steve@moveforward.co.nz"
+        }
+    ],
+    "minimum-stability": "dev",
+	"extras": {
+		"installer-name": "spout-graphql"
+	},
+    "require": {}
+}
