@@ -10,8 +10,17 @@
         }
     ],
     "minimum-stability": "dev",
-	"extras": {
+	"extra": {
 		"installer-name": "spout-graphql"
 	},
-    "require": {}
+    "require": {
+		"crackerjackdigital/spout": "dev-develop",
+		"webonyx/graphql-php": "dev-master"
+	},
+	"repositories": [
+		{
+			"type": "vcs",
+			"url": "https://github.com/CrackerjackDigital/silverstripe-spout-graphql.git"
+		}
+	]
 }
