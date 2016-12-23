@@ -10,7 +10,7 @@
         }
     ],
     "minimum-stability": "dev",
-	"extras": {
+	"extra": {
 		"installer-name": "spout-graphql"
 	},
     "require": {}
