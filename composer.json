@@ -14,7 +14,7 @@
 		"installer-name": "spout-graphql"
 	},
     "require": {
-		"crackerjackdigital/spout": "dev-develop",
+		"crackerjackdigital/silverstripe-spout": "dev-develop",
 		"webonyx/graphql-php": "dev-master"
 	},
 	"repositories": [
